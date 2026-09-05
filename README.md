@@ -1,5 +1,3 @@
 <div align="center">
-
-# ᝰ.ᐟ mavikiss ˎˊ˗
-
+  <img src="https://github.com/mavikiss/mavikiss/blob/main/baner-github.jpg?raw=true" width="100%">
 </div>
