@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317l3ejdjwnxqrmtzve7qsvwxehm)
+
 ###
 
 <div data-importer="stats" align="center">
